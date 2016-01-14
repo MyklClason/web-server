@@ -1,3 +1,14 @@
+###################### Tools
+# I use this simple bat file to for quick access to the 
+#  command line. Found it online, but don't recall where.
+# The content is simply:
+#     @ECHO OFF
+
+#     cmd.exe /K
+Fast Command Line.bat
+
+############################################
+
 # Logs
 logs
 *.log
